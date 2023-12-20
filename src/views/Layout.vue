@@ -10,5 +10,8 @@ onMounted(() => {
 </template>
 <style scoped lang="less">
 .wrapper {
+  width: 100px;
+  height: 100px;
+  background-color: red;
 }
 </style>
