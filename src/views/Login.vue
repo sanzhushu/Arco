@@ -12,5 +12,6 @@ onMounted(() => {
 <style scoped lang="less">
 .wrapper {
   background-color: #000;
+    
 }
 </style>

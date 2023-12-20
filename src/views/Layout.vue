@@ -6,12 +6,13 @@ onMounted(() => {
 });
 </script>
 <template>
-  <div class="wrapper"></div>
+  <div class="wrapper">12121212</div>
 </template>
 <style scoped lang="less">
 .wrapper {
   width: 100px;
   height: 100px;
   background-color: red;
+  font-size: 120px;
 }
 </style>
